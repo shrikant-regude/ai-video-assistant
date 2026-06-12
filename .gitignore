@@ -1,0 +1,24 @@
+# Environment
+.venv/
+venv/
+.env
+
+# Downloads & temp files
+downloads/
+downloades/
+*.wav
+*.mp3
+*.mp4
+*.webm
+
+# Vector DB
+vector_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
